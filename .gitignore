@@ -1,0 +1,8 @@
+
+/build/
+/config/
+/.vscode/
+/sdkconfig.old
+/sdkconfig.ci
+Makefile
+.DS_Store
